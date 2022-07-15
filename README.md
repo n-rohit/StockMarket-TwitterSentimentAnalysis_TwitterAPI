@@ -17,7 +17,8 @@ These values of the <b>key</b> column must be replaced with the actual keys that
 - Signup or Login to your <a href="https://twitter.com/">Twitter</a> profile.
 - Now, go to your Twitter Developer Portal <a href="https://developer.twitter.com/en/portal/dashboard">Dashboard</a>
 - Create a New Project and then create a new App in that project.
-- Initially, you are given the <a href="https://developer.twitter.com/en/portal/products/essential">Essential</a> Access which is not suffiecient for getting the data we need.
+- Initially, you are given the <a href="https://developer.twitter.com/en/portal/products/essential">Essential</a> Access which is not suffiecient for getting the data we need. <br>
+<i>(You will get an Error if you execute the program at this stage, Mentioning that you need to apply for the Elevated Access)</i>
 - So, we need to fill up an Application Form to apply for an <a href="https://developer.twitter.com/en/portal/products/elevated">Elevated</a> Access for your App.
 - If you have filled all the Details correctly and answered all the Questions well, you will get the <b>Elevated</b> Access for your App in a few days.
 
